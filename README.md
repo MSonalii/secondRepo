@@ -1,2 +1,2 @@
 # secondRepo
-This contains some random stuff
+This contains some random information
